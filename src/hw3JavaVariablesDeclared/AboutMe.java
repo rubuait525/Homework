@@ -14,7 +14,6 @@ public class AboutMe {
 	public double myHeight;
 	public short myZipcode;
 	public byte myPhoneBill;
-	//
 
 	// Constructor is declared
 	public AboutMe() {
