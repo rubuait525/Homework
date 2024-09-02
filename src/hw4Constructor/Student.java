@@ -15,11 +15,7 @@ public class Student {
 		System.out.println("This is all about Student");
 	}
 
-	public Student(String name) {
-		this.name = name;
-		System.out.println("Student Name" + name);
 
-	}
 
 	public Student(String name, int id, char gender, float grade, boolean isProgramer) {
 		this.name = name;
